@@ -1,3 +1,27 @@
 
 img {float: left;}
-#header { border: thin solid black; background-color: #2D4F15; color: white}
+#header { border: thin solid black; background-color: #02874d;
+  color: white}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #02874d;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #02874d;
+}
+
