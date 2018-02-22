@@ -3,10 +3,14 @@ img {float: left;}
 #header { border: thin solid black; background-color: #02874d;
   color: white; padding-left: 15%;}
 
+.clearfix { clear: both; }
 
-#header h1 {float: left;}
+#header h1 { float: left;}
+#header-left { float: left; width: 20%; }
+#header-right { float: left; width: 80%; padding-top: 15px;; }
 
 ul {
+
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,14 +20,12 @@ ul {
 li {
     float: left;
 }
+
 li a {
+
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-
-.active {
-    background-color: #02874d;
 }
