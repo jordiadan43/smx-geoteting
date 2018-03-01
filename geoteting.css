@@ -30,31 +30,10 @@ li a {
 }
 
 .imagen-pino {
-  width: 11000
-background-image: url("fondo-pino");
+  width: 100%;
+  background-image: url("fondo-pino.jpg");
+  height: 350px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .pagefoot {
@@ -98,5 +77,6 @@ background-image: url("fondo-pino");
 
 .imagefoot {
 
-width: 1100
+width: 100%;
 background-image: url("hola.png");
+}
