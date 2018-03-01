@@ -1,4 +1,3 @@
-
 img {float: left;}
 #header { border: thin solid black; background-color: #02874d;
   color: white; padding-left: 15%;}
@@ -29,3 +28,75 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+.imagen-pino {
+  width: 11000
+background-image: url("fondo-pino");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pagefoot {
+    background: orange;
+    width: 100%;
+    text-align: center;
+}
+
+
+.pagefoot ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+    background-color: #83603f;
+      text-align: center;
+}
+
+.pagefoot ul li {
+    list-style: none;
+      text-align: center;
+
+}
+
+.pagefoot ul li a {
+    text-decoration: none;
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 10px 20px;
+    color: white;
+      text-align: center;
+
+}
+
+.pagefoot ul li a:hover {
+    color: white;
+      text-align: center;
+
+
+}
+
+.imagefoot {
+
+width: 1100
+background-image: url("hola.png");
