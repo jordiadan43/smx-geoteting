@@ -64,19 +64,33 @@ li a {
     display: block;
     padding: 10px 20px;
     color: white;
-      text-align: center;
+    text-align: center;
 
 }
 
 .pagefoot ul li a:hover {
     color: white;
-      text-align: center;
+    text-align: center;
+
+}
+
+.pagefoot li {
+
+  text-align: center;
+
 
 
 }
+
 
 .imagefoot {
 
 width: 100%;
 background-image: url("hola.png");
+}
+
+.pagefoot img  {
+
+width: 2%;
+background-image: url("tete.png");
 }
