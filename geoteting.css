@@ -36,6 +36,19 @@ li a {
 }
 
 
+.centered {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    transform: translate(-50%, -50%);
+}
+
+
+
 .pagefoot {
     background: orange;
     width: 100%;
