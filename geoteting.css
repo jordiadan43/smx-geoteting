@@ -98,9 +98,17 @@ li a {
 
 .imagefoot {
 
-width: 100%;
+width: 94,5%;
+margin: 0 auto;
 background-image: url("hola.png");
+height: 222px;
+color: white;
+font-size: 27px;
+padding-left:170px;
 }
+
+.footer-column { width: 25%; float: left;}
+
 
 .pagefoot img  {
 
