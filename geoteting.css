@@ -113,8 +113,9 @@ input[type=search]{
 
 
 }
-.inner-wrapper { width: 60%; margin: 0 auto; }
-.inner-wrapper2 { width: 60%; margin: 0 auto; }
+.inner-wrapper { width: 60%; margin: 0 auto; font-size: 25px}
+.inner-wrapper2 { width: 60%; margin: 0 auto; font-size: 25px}
+
 .imagefoot {
 
 width: 94,5%;
@@ -122,10 +123,10 @@ margin: 0 auto;
 background-image: url("hola.png");
 height: 222px;
 color: white;
-font-size: 27px;
+font-size: 29px;
 padding-left:170px;
-text-decoration: white;
-text-decoration-color: white;
+text-decoration: white
+
 }
 
 .footer-column { width: 25%; float: left;}
