@@ -116,13 +116,7 @@ input[type=search]{
 
 
 }
-<<<<<<< HEAD
-.inner-wrapper { width: 60%; margin: 0 auto; font-size: 25px}
-.inner-wrapper2 { width: 60%; margin: 0 auto; font-size: 25px}
-
-=======
 .inner-wrapper { width: 60%; margin: 0 auto; }
->>>>>>> c8a6961389ffa49c2dc1190c5179fef0063c2459
 .imagefoot {
 
 width: 94,5%;
@@ -130,22 +124,10 @@ margin: 0 auto;
 background-image: url("hola.png");
 height: 222px;
 color: white;
-font-size: 29px;
+font-size: 27px;
 padding-left:170px;
-
-
-}
-
-.imagefoot a {
-
-text-decoration: none;
-color: white;
-
-
-
-
-
-
+text-decoration: white;
+text-decoration-color: white;
 }
 
 .footer-column { width: 25%; float: left;}
