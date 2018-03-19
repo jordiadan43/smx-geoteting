@@ -57,6 +57,7 @@ li a {
     margin-bottom: 24px;
 }
 
+
 input[type=search]{
   float:center;
   margin-center:15px;
@@ -116,6 +117,19 @@ input[type=search]{
 
 
 }
+
+
+.imagefoot a {
+    color:white;    ;
+}
+
+
+
+
+
+
+
+
 .inner-wrapper { width: 60%; margin: 0 auto; }
 .imagefoot {
 
